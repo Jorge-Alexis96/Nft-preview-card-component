@@ -33,7 +33,7 @@ body {
   position: relative;
   cursor: pointer;
 }
-
+/* coment radius */
 .imgContainerCard img {
   border-radius: 10px;
   width: 300px;
